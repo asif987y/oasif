@@ -1,11 +1,11 @@
 # 🛍️ OBuyer - Your AI Shopping Agent
 
-[![Website Status](https://img.shields.io/badge/website-live-brightgreen)](https://obuyer.in)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-blue)](https://obuyer.in)
+[![Website Status](https://img.shields.io/badge/website-live-brightgreen)](https://www.obuyer.in)
+[![AI Powered](https://img.shields.io/badge/AI-Powered-blue)](https://www.obuyer.in)
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## 🌐 Live Demo
-**Visit:** [https://obuyer.in](https://obuyer.in) *(Replace with your actual domain)*
+**Visit:** [https://www.obuyer.in](https:/www./obuyer.in) *(Replace with your actual domain)*
 
 ## 🤖 About OBuyer
 
